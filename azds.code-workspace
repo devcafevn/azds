@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "mywebapi"
+		},
+		{
+			"path": "webfrontend"
+		}
+	],
+	"settings": {}
+}
